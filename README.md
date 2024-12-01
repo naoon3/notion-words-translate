@@ -1,2 +1,8 @@
-# notion-words-translate
-https://zenn.dev/shogo/articles/95758b937a7fc2 を参考にしたリポジトリです。
+# このリポジトリはなんですか？
+https://zenn.dev/shogo/articles/95758b937a7fc2 を参考にしたリポジトリです。英語以外にも、違う言語に対応させてしまおうという試みで作りました。
+
+## 使い方
+
+wip
+
+
